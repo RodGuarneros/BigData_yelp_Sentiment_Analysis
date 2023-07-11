@@ -1,4 +1,9 @@
-# BigData_yelp_Sentiment_Analysis
+# BigData
+## Yelp Sentiment Analysis
+## By Rodrigo Guarneros Gutiérrez
+
+Sentiment analysis: Built a supervised ML model using PySpark, Google Colab, and AWS for sentiment analysis of Yelp opinions. 
+
 A supervised ML model to make a setiment analysis with Yelp opinions
 - Pipeline:
   - StringIndexer(inputCol='class',outputCol='label')
